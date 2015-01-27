@@ -2,9 +2,9 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="D:\AndroidStudioProjects\comefreechat\app\src\androidTest\res" />
-        <source path="D:\AndroidStudioProjects\comefreechat\app\build\generated\res\rs\test\debug" />
-        <source path="D:\AndroidStudioProjects\comefreechat\app\build\generated\res\generated\test\debug" />
+        <source path="C:\Users\Hua\Documents\GitHub\Personalized-Chat-Project\app\src\androidTest\res" />
+        <source path="C:\Users\Hua\Documents\GitHub\Personalized-Chat-Project\app\build\generated\res\rs\test\debug" />
+        <source path="C:\Users\Hua\Documents\GitHub\Personalized-Chat-Project\app\build\generated\res\generated\test\debug" />
     </dataSet>
 
 </merger>
